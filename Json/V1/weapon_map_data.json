@@ -799,9 +799,9 @@
             "name_zh": "巴士拉",
             "size": 3040,
             "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/full/AlBasrah.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/lite/AlBasrah.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/heightmap/AlBasrah.png",
+            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/AlBasrah.png",
+            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/AlBasrah.webp",
+            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/AlBasrah.png",
             "heightFactor": 0.1
         },
         {
@@ -809,9 +809,9 @@
             "name_zh": "铁砧行动",
             "size": 3060,
             "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/full/Anvil.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/lite/Anvil.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/heightmap/Anvil.png",
+            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Anvil.png",
+            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Anvil.webp",
+            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Anvil.png",
             "heightFactor": 0.45
         },
         {
@@ -819,9 +819,9 @@
             "name_zh": "别拉亚河谷",
             "size": 3905,
             "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/full/Belaya.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/lite/Belaya.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/heightmap/Belaya.png",
+            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Belaya.png",
+            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Belaya.webp",
+            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Belaya.png",
             "heightFactor": 1.2
         },
         {
@@ -829,9 +829,9 @@
             "name_zh": "黑色海岸",
             "size": 4599,
             "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/full/BlackCoast.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/lite/BlackCoast.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/heightmap/BlackCoast.png",
+            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/BlackCoast.png",
+            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/BlackCoast.webp",
+            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/BlackCoast.png",
             "heightFactor": 0.8
         },
         {
@@ -839,9 +839,9 @@
             "name_zh": "乔拉",
             "size": 4064,
             "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/full/Chora.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/lite/Chora.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/heightmap/Chora.png",
+            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Chora.png",
+            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Chora.webp",
+            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Chora.png",
             "heightFactor": 4.0
         },
         {
@@ -849,9 +849,9 @@
             "name_zh": "费卢杰",
             "size": 3005,
             "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/full/Fallujah.jpg",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/lite/Fallujah.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/heightmap/Fallujah.png",
+            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Fallujah.jpg",
+            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Fallujah.webp",
+            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Fallujah.png",
             "heightFactor": 1.0
         },
         {
@@ -859,9 +859,9 @@
             "name_zh": "愚者之路",
             "size": 1773,
             "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/full/Fool's Road.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/lite/Fool's Road.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/heightmap/Fool's Road.png",
+            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Fool's Road.png",
+            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Fool's Road.webp",
+            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Fool's Road.png",
             "heightFactor": 3.2
         },
         {
@@ -869,9 +869,9 @@
             "name_zh": "鹅湾",
             "size": 4031,
             "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/full/GooseBay.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/lite/GooseBay.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/heightmap/GooseBay.png",
+            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/GooseBay.png",
+            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/GooseBay.webp",
+            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/GooseBay.png",
             "heightFactor": 0.4
         },
         {
@@ -879,9 +879,9 @@
             "name_zh": "格洛多克",
             "size": 4064,
             "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/full/Gorodok.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/lite/Gorodok.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/heightmap/Gorodok.png",
+            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Gorodok.png",
+            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Gorodok.webp",
+            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Gorodok.png",
             "heightFactor": 10.0
         },
         {
@@ -889,9 +889,9 @@
             "name_zh": "哈留",
             "size": 4032,
             "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/full/Harju.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/lite/Harju.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/heightmap/Harju.png",
+            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Harju.png",
+            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Harju.webp",
+            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Harju.png",
             "heightFactor": 1.0
         },
         {
@@ -899,9 +899,9 @@
             "name_zh": "詹森训练基地",
             "size": 4008,
             "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/full/Jensen'sRange.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/lite/Jensen'sRange.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/heightmap/Jensen'sRange.png",
+            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Jensen'sRange.png",
+            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Jensen'sRange.webp",
+            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Jensen'sRange.png",
             "heightFactor": 1.0
         },
         {
@@ -909,9 +909,9 @@
             "name_zh": "卡玛徳什高地",
             "size": 4032,
             "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/full/KamdeshHighlands.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/lite/KamdeshHighlands.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/heightmap/KamdeshHighlands.png",
+            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/KamdeshHighlands.png",
+            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/KamdeshHighlands.webp",
+            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/KamdeshHighlands.png",
             "heightFactor": 1.35
         },
         {
@@ -919,9 +919,9 @@
             "name_zh": "科哈特托伊",
             "size": 4617,
             "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/full/KohatToi.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/lite/KohatToi.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/heightmap/KohatToi.png",
+            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/KohatToi.png",
+            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/KohatToi.webp",
+            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/KohatToi.png",
             "heightFactor": 0.75
         },
         {
@@ -929,9 +929,9 @@
             "name_zh": "科坎",
             "size": 2496,
             "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/full/Kokan.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/lite/Kokan.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/heightmap/Kokan.png",
+            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Kokan.png",
+            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Kokan.webp",
+            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Kokan.png",
             "heightFactor": 1.0
         },
         {
@@ -939,9 +939,9 @@
             "name_zh": "拉什卡",
             "size": 4334,
             "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/full/LashkarValley.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/lite/LashkarValley.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/heightmap/LashkarValley.png",
+            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/LashkarValley.png",
+            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/LashkarValley.webp",
+            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/LashkarValley.png",
             "heightFactor": 1.5
         },
         {
@@ -949,9 +949,9 @@
             "name_zh": "洛加尔山谷",
             "size": 1761,
             "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/full/LogarValley.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/lite/LogarValley.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/heightmap/LogarValley.png",
+            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/LogarValley.png",
+            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/LogarValley.webp",
+            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/LogarValley.png",
             "heightFactor": 0.5
         },
         {
@@ -959,9 +959,9 @@
             "name_zh": "曼尼古根",
             "size": 4031,
             "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/full/Manicouagan.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/lite/Manicouagan.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/heightmap/Manicouagan.png",
+            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Manicouagan.png",
+            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Manicouagan.webp",
+            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Manicouagan.png",
             "heightFactor": 3.0
         },
         {
@@ -969,9 +969,9 @@
             "name_zh": "梅斯蒂亚",
             "size": 2400,
             "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/full/Mestia.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/lite/Mestia.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/heightmap/Mestia.png",
+            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Mestia.png",
+            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Mestia.webp",
+            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Mestia.png",
             "heightFactor": 1.2
         },
         {
@@ -979,9 +979,9 @@
             "name_zh": "穆塔哈",
             "size": 2755,
             "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/full/Mutaha.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/lite/Mutaha.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/heightmap/Mutaha.png",
+            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Mutaha.png",
+            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Mutaha.webp",
+            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Mutaha.png",
             "heightFactor": 0.3
         },
         {
@@ -989,9 +989,9 @@
             "name_zh": "纳尔瓦",
             "size": 2800,
             "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/full/Narva.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/lite/Narva.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/heightmap/Narva.png",
+            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Narva.png",
+            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Narva.webp",
+            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Narva.png",
             "heightFactor": 1.0
         },
         {
@@ -999,9 +999,9 @@
             "name_zh": "太平洋训练基地",
             "size": 4032,
             "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/full/PacificProvingGrounds.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/lite/PacificProvingGrounds.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/heightmap/PacificProvingGrounds.png",
+            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/PacificProvingGrounds.png",
+            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/PacificProvingGrounds.webp",
+            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/PacificProvingGrounds.png",
             "heightFactor": 0.28
         },
         {
@@ -1009,9 +1009,9 @@
             "name_zh": "三贤岛",
             "size": 4600,
             "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/full/SanxianIslands.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/lite/SanxianIslands.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/heightmap/SanxianIslands.png",
+            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/SanxianIslands.png",
+            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/SanxianIslands.webp",
+            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/SanxianIslands.png",
             "heightFactor": 3.5
         },
         {
@@ -1019,9 +1019,9 @@
             "name_zh": "斯科普",
             "size": 7600,
             "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/full/Skorpo.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/lite/Skorpo.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/heightmap/Skorpo.png",
+            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Skorpo.png",
+            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Skorpo.webp",
+            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Skorpo.png",
             "heightFactor": 0.75
         },
         {
@@ -1029,9 +1029,9 @@
             "name_zh": "索马瑞",
             "size": 1300,
             "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/full/Sumari.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/lite/Sumari.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/heightmap/Sumari.png",
+            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Sumari.png",
+            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Sumari.webp",
+            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Sumari.png",
             "heightFactor": 1.25
         },
         {
@@ -1039,9 +1039,9 @@
             "name_zh": "塔利尔",
             "size": 4680,
             "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/full/TallilOutskirts.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/lite/TallilOutskirts.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/heightmap/TallilOutskirts.png",
+            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/TallilOutskirts.png",
+            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/TallilOutskirts.webp",
+            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/TallilOutskirts.png",
             "heightFactor": 4.0
         },
         {
@@ -1049,9 +1049,9 @@
             "name_zh": "叶霍里夫卡",
             "size": 6350,
             "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/full/Yehorivka.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/lite/Yehorivka.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/master/Maps/heightmap/Yehorivka.png",
+            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Yehorivka.png",
+            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Yehorivka.webp",
+            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Yehorivka.png",
             "heightFactor": 1.0
         }
     ]
