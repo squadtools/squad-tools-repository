@@ -123,7 +123,7 @@
           "unit": "angle",
           
           "moa": 100,
-          "table": [
+          "table1": [
             [
               150,
               85
@@ -202,7 +202,7 @@
           "unit": "angle",
           
           "moa": 200,
-          "table": [
+          "table1": [
             [
               700,
               7.5
@@ -276,7 +276,7 @@
           "unit": "angle",
           
           "moa": 200,
-          "table": [
+          "table1": [
             [
               1000,
               14.7
@@ -379,7 +379,7 @@
           "unit": "angle",
           
           "moa": 200,
-          "table": [
+          "table1": [
             [
               400,
               93
