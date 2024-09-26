@@ -267,10 +267,7 @@
           "description":"可以发射122mm火箭弹，瞬间覆盖敌方阵地，如果敌人还没投降，那就再洗一轮",
           "velocity": 200,
           "gravityScale": 2,
-          "minElevation": [
-            -45,
-            135
-          ],
+
           "minDistance": 1000,
           "weaponType": "bdm122",
           "unit": "angle",
