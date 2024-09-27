@@ -778,38 +778,38 @@
       "table2": []
     },
     {
-      "name": "sqv迫击炮车-短",
-      "description": "使用长行程装药的迫击炮，覆盖范围更远",
+      "name": "sqv迫击炮-短",
+      "description": "使用短行程装药的迫击炮，覆盖范围更远",
       "velocity": 129.035654,
       "gravityScale": 1,
       "minDistance": 50,
       "weaponType": "mortar",
       "unit": "mil",
-      "moa": 50,
+      "moa": 25,
       "table1": [],
       "table2": []
     },
     {
-      "name": "sqv迫击炮车-中",
-      "description": "使用长行程装药的迫击炮，覆盖范围更远",
+      "name": "sqv迫击炮-中",
+      "description": "使用中行程装药的迫击炮，覆盖范围更远",
       "velocity": 176.519404,
       "gravityScale": 1,
       "minDistance": 50,
       "weaponType": "mortar",
       "unit": "mil",
-      "moa": 50,
+      "moa": 25,
       "table1": [],
       "table2": []
     },
     {
-      "name": "sqv迫击炮车-长",
+      "name": "sqv迫击炮-长",
       "description": "使用长行程装药的迫击炮，覆盖范围更远",
       "velocity": 234.2648074,
       "gravityScale": 1,
       "minDistance": 50,
       "weaponType": "mortar",
       "unit": "mil",
-      "moa": 50,
+      "moa": 25,
       "table1": [],
       "table2": []
     }
