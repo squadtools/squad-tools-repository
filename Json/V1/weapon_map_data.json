@@ -1,1055 +1,1079 @@
 {
-    "weapon_data_list": [
-        {
-          "name": "迫击炮",
-          "description":"步兵班最可靠的支援武器，可以发射杀伤榴弹和烟雾弹。",
-          "velocity": 109.890938,
-          "gravityScale": 1,
-          "minDistance": 50,
-          "weaponType": "mortar",
-          "unit": "mil",
-          "moa": 50,
-          "table1": [
-            [
-              50,
-              1579
-            ],
-            [
-              100,
-              1558
-            ],
-            [
-              150,
-              1538
-            ],
-            [
-              200,
-              1517
-            ],
-            [
-              250,
-              1496
-            ],
-            [
-              300,
-              1475
-            ],
-            [
-              350,
-              1453
-            ],
-            [
-              400,
-              1437
-            ],
-            [
-              450,
-              1409
-            ],
-            [
-              500,
-              1387
-            ],
-            [
-              550,
-              1364
-            ],
-            [
-              600,
-              1341
-            ],
-            [
-              650,
-              1317
-            ],
-            [
-              700,
-              1292
-            ],
-            [
-              750,
-              1267
-            ],
-            [
-              800,
-              1240
-            ],
-            [
-              850,
-              1212
-            ],
-            [
-              900,
-              1183
-            ],
-            [
-              950,
-              1152
-            ],
-            [
-              1000,
-              1118
-            ],
-            [
-              1050,
-              1087
-            ],
-            [
-              1100,
-              1039
-            ],
-            [
-              1150,
-              988
-            ],
-            [
-              1200,
-              918
-            ],
-            [
-              1250,
-              800
-            ]
-          ],
-          "table2": []
-        },
-        {
-          "name": "煤气罐",
-          "description":"来自老乡的神秘武器，发射装满丁烷的煤气罐，大口径，一发秒，但是精度很差",
-          "velocity": 95,
-          "gravityScale": 1,
-          "minDistance": 150,
-          "weaponType": "hell",
-          "unit": "angle",
-          
-          "moa": 100,
-          "table1": [
-            [
-              150,
-              85
-            ],
-            [
-              200,
-              83.5
-            ],
-            [
-              300,
-              80.5
-            ],
-            [
-              400,
-              77
-            ],
-            [
-              500,
-              73.5
-            ],
-            [
-              600,
-              70
-            ],
-            [
-              700,
-              65
-            ],
-            [
-              800,
-              60
-            ],
-            [
-              875,
-              55
-            ],
-            [
-              900,
-              50
-            ],
-            [
-              925,
-              45
-            ]
-          ],
-          "table2": [
-            [
-              900,
-              40
-            ],
-            [
-              850,
-              35
-            ],
-            [
-              800,
-              30
-            ],
-            [
-              700,
-              25
-            ],
-            [
-              600,
-              20
-            ]
-          ]
-        },
-        {
-          "name": "UB32-S5",
-          "description":"可以密集发射火箭弹，拥有令步兵闻风丧胆的火力密度，缺点是散布范围太大和装弹麻烦",
-          "velocity": 0,
-          "gravityScale": 2,
-          "minDistance": 700,
-          "weaponType": "ub32s5",
-          "unit": "angle",
-          
-          "moa": 200,
-          "table1": [
-            [
-              700,
-              7.5
-            ],
-            [
-              800,
-              8.8
-            ],
-            [
-              900,
-              10
-            ],
-            [
-              1000,
-              12
-            ],
-            [
-              1100,
-              13.5
-            ],
-            [
-              1200,
-              15.5
-            ],
-            [
-              1300,
-              16.3
-            ],
-            [
-              1400,
-              18
-            ],
-            [
-              1500,
-              20
-            ],
-            [
-              1600,
-              22.5
-            ],
-            [
-              1700,
-              25
-            ],
-            [
-              1800,
-              27.5
-            ],
-            [
-              1900,
-              29.8
-            ],
-            [
-              2000,
-              32
-            ]
-          ],
-          "table2": []
-        },
-        {
-          "name": "冰雹",
-          "description":"可以发射122mm火箭弹，瞬间覆盖敌方阵地，如果敌人还没投降，那就再洗一轮",
-          "velocity": 200,
-          "gravityScale": 2,
-
-          "minDistance": 1000,
-          "weaponType": "bdm122",
-          "unit": "angle",
-          
-          "moa": 200,
-          "table1": [
-            [
-              1000,
-              14.7
-            ],
-            [
-              1050,
-              15.5
-            ],
-            [
-              1100,
-              16.3
-            ],
-            [
-              1150,
-              17.2
-            ],
-            [
-              1200,
-              18
-            ],
-            [
-              1250,
-              18.9
-            ],
-            [
-              1300,
-              19.8
-            ],
-            [
-              1350,
-              20.7
-            ],
-            [
-              1400,
-              21.7
-            ],
-            [
-              1450,
-              22.7
-            ],
-            [
-              1500,
-              23.7
-            ],
-            [
-              1550,
-              24.7
-            ],
-            [
-              1600,
-              25.9
-            ],
-            [
-              1650,
-              27
-            ],
-            [
-              1700,
-              28.2
-            ],
-            [
-              1750,
-              29.6
-            ],
-            [
-              1800,
-              31
-            ],
-            [
-              1850,
-              32.6
-            ],
-            [
-              1900,
-              34.4
-            ],
-            [
-              1950,
-              36.5
-            ],
-            [
-              2000,
-              39.4
-            ],
-            [
-              2050,
-              45
-            ]
-          ],
-          "table2": []
-        },
-        {
-          "name": "AGS 30",
-          "description":"可以发射榴弹的自动武器，仅限模组使用",
-          "velocity": 0,
-          "gravityScale": 1,
-          
-          "minDistance": 1000,
-          "weaponType": "bdm122",
-          "unit": "angle",
-          
-          "moa": 200,
-          "table1": [
-            [
-              400,
-              93
-            ],
-            [
-              500,
-              115
-            ],
-            [
-              600,
-              140
-            ],
-            [
-              700,
-              165
-            ],
-            [
-              800,
-              190
-            ],
-            [
-              900,
-              215
-            ],
-            [
-              1000,
-              240
-            ],
-            [
-              1100,
-              267
-            ],
-            [
-              1200,
-              296
-            ],
-            [
-              1300,
-              327
-            ],
-            [
-              1400,
-              358
-            ],
-            [
-              1500,
-              390
-            ],
-            [
-              1700,
-              463
-            ],
-            [
-              1800,
-              506
-            ],
-            [
-              1900,
-              553
-            ],
-            [
-              2000,
-              646
-            ]
-          ],
-          "table2": []
-        },
-        {
-          "name": "迫击炮车-短",
-          "description":"使用短行程装药的迫击炮，与标准迫击炮无异",
-          "velocity": 109.890938,
-          "gravityScale": 1,
-          
-          "minDistance": 50,
-          "weaponType": "mortar",
-          "unit": "mil",
-          
-          "moa": 50,
-          "table1": [
-            [
-              50,
-              1579
-            ],
-            [
-              100,
-              1558
-            ],
-            [
-              150,
-              1538
-            ],
-            [
-              200,
-              1517
-            ],
-            [
-              250,
-              1496
-            ],
-            [
-              300,
-              1475
-            ],
-            [
-              350,
-              1453
-            ],
-            [
-              400,
-              1437
-            ],
-            [
-              450,
-              1409
-            ],
-            [
-              500,
-              1387
-            ],
-            [
-              550,
-              1364
-            ],
-            [
-              600,
-              1341
-            ],
-            [
-              650,
-              1317
-            ],
-            [
-              700,
-              1292
-            ],
-            [
-              750,
-              1267
-            ],
-            [
-              800,
-              1240
-            ],
-            [
-              850,
-              1212
-            ],
-            [
-              900,
-              1183
-            ],
-            [
-              950,
-              1152
-            ],
-            [
-              1000,
-              1118
-            ],
-            [
-              1050,
-              1087
-            ],
-            [
-              1100,
-              1039
-            ],
-            [
-              1150,
-              988
-            ],
-            [
-              1200,
-              918
-            ],
-            [
-              1250,
-              800
-            ]
-          ],
-          "table2": []
-        },
-        {
-          "name": "迫击炮车-中",
-          "description":"使用中行程装药的迫击炮，打击更远距离的目标",
-          "velocity": 143.5,
-          "gravityScale": 1,
-          
-          "minDistance": 50,
-          "weaponType": "mortar",
-          "unit": "mil",
-          
-          "moa": 50,
-          "table1": [
-            [
-              50,
-              1579
-            ],
-            [
-              100,
-              1558
-            ],
-            [
-              150,
-              1538
-            ],
-            [
-              200,
-              1517
-            ],
-            [
-              250,
-              1496
-            ],
-            [
-              300,
-              1475
-            ],
-            [
-              350,
-              1453
-            ],
-            [
-              400,
-              1437
-            ],
-            [
-              450,
-              1409
-            ],
-            [
-              500,
-              1387
-            ],
-            [
-              550,
-              1364
-            ],
-            [
-              600,
-              1341
-            ],
-            [
-              650,
-              1317
-            ],
-            [
-              700,
-              1292
-            ],
-            [
-              750,
-              1267
-            ],
-            [
-              800,
-              1240
-            ],
-            [
-              850,
-              1212
-            ],
-            [
-              900,
-              1183
-            ],
-            [
-              950,
-              1152
-            ],
-            [
-              1000,
-              1118
-            ],
-            [
-              1050,
-              1087
-            ],
-            [
-              1100,
-              1039
-            ],
-            [
-              1150,
-              988
-            ],
-            [
-              1200,
-              918
-            ],
-            [
-              1250,
-              800
-            ]
-          ],
-          "table2": []
-        },
-        {
-          "name": "迫击炮车-长",
-          "description":"使用长行程装药的迫击炮，覆盖范围更远",
-          "velocity": 171.5,
-          "gravityScale": 1,
-          
-          "minDistance": 50,
-          "weaponType": "mortar",
-          "unit": "mil",
-          
-          "moa": 50,
-          "table1": [
-            [
-              50,
-              1579
-            ],
-            [
-              100,
-              1558
-            ],
-            [
-              150,
-              1538
-            ],
-            [
-              200,
-              1517
-            ],
-            [
-              250,
-              1496
-            ],
-            [
-              300,
-              1475
-            ],
-            [
-              350,
-              1453
-            ],
-            [
-              400,
-              1437
-            ],
-            [
-              450,
-              1409
-            ],
-            [
-              500,
-              1387
-            ],
-            [
-              550,
-              1364
-            ],
-            [
-              600,
-              1341
-            ],
-            [
-              650,
-              1317
-            ],
-            [
-              700,
-              1292
-            ],
-            [
-              750,
-              1267
-            ],
-            [
-              800,
-              1240
-            ],
-            [
-              850,
-              1212
-            ],
-            [
-              900,
-              1183
-            ],
-            [
-              950,
-              1152
-            ],
-            [
-              1000,
-              1118
-            ],
-            [
-              1050,
-              1087
-            ],
-            [
-              1100,
-              1039
-            ],
-            [
-              1150,
-              988
-            ],
-            [
-              1200,
-              918
-            ],
-            [
-              1250,
-              800
-            ]
-          ],
-          "table2": []
-        }
+  "weapon_data_list": [
+    {
+      "name": "迫击炮",
+      "description": "步兵班最可靠的支援武器，可以发射杀伤榴弹和烟雾弹。",
+      "velocity": 109.890938,
+      "gravityScale": 1,
+      "minDistance": 50,
+      "weaponType": "mortar",
+      "unit": "mil",
+      "moa": 50,
+      "table1": [
+        [
+          50,
+          1579
+        ],
+        [
+          100,
+          1558
+        ],
+        [
+          150,
+          1538
+        ],
+        [
+          200,
+          1517
+        ],
+        [
+          250,
+          1496
+        ],
+        [
+          300,
+          1475
+        ],
+        [
+          350,
+          1453
+        ],
+        [
+          400,
+          1437
+        ],
+        [
+          450,
+          1409
+        ],
+        [
+          500,
+          1387
+        ],
+        [
+          550,
+          1364
+        ],
+        [
+          600,
+          1341
+        ],
+        [
+          650,
+          1317
+        ],
+        [
+          700,
+          1292
+        ],
+        [
+          750,
+          1267
+        ],
+        [
+          800,
+          1240
+        ],
+        [
+          850,
+          1212
+        ],
+        [
+          900,
+          1183
+        ],
+        [
+          950,
+          1152
+        ],
+        [
+          1000,
+          1118
+        ],
+        [
+          1050,
+          1087
+        ],
+        [
+          1100,
+          1039
+        ],
+        [
+          1150,
+          988
+        ],
+        [
+          1200,
+          918
+        ],
+        [
+          1250,
+          800
+        ]
       ],
-    "map_data_list": [
-        {
-            "name_en": "AlBasrah",
-            "name_zh": "巴士拉",
-            "size": 3040,
-            "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/AlBasrah.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/AlBasrah.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/AlBasrah.png",
-            "heightFactor": 0.1
-        },
-        {
-            "name_en": "Anvil",
-            "name_zh": "铁砧行动",
-            "size": 3060,
-            "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Anvil.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Anvil.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Anvil.png",
-            "heightFactor": 0.45
-        },
-        {
-            "name_en": "Belaya",
-            "name_zh": "别拉亚河谷",
-            "size": 3905,
-            "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Belaya.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Belaya.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Belaya.png",
-            "heightFactor": 1.2
-        },
-        {
-            "name_en": "BlackCoast",
-            "name_zh": "黑色海岸",
-            "size": 4599,
-            "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/BlackCoast.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/BlackCoast.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/BlackCoast.png",
-            "heightFactor": 0.8
-        },
-        {
-            "name_en": "Chora",
-            "name_zh": "乔拉",
-            "size": 4064,
-            "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Chora.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Chora.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Chora.png",
-            "heightFactor": 4.0
-        },
-        {
-            "name_en": "Fallujah",
-            "name_zh": "费卢杰",
-            "size": 3005,
-            "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Fallujah.jpg",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Fallujah.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Fallujah.png",
-            "heightFactor": 1.0
-        },
-        {
-            "name_en": "Fool's Road",
-            "name_zh": "愚者之路",
-            "size": 1773,
-            "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Fool's Road.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Fool's Road.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Fool's Road.png",
-            "heightFactor": 3.2
-        },
-        {
-            "name_en": "GooseBay",
-            "name_zh": "鹅湾",
-            "size": 4031,
-            "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/GooseBay.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/GooseBay.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/GooseBay.png",
-            "heightFactor": 0.4
-        },
-        {
-            "name_en": "Gorodok",
-            "name_zh": "格洛多克",
-            "size": 4064,
-            "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Gorodok.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Gorodok.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Gorodok.png",
-            "heightFactor": 10.0
-        },
-        {
-            "name_en": "Harju",
-            "name_zh": "哈留",
-            "size": 4032,
-            "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Harju.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Harju.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Harju.png",
-            "heightFactor": 1.0
-        },
-        {
-            "name_en": "Jensen'sRange",
-            "name_zh": "詹森训练基地",
-            "size": 4008,
-            "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Jensen'sRange.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Jensen'sRange.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Jensen'sRange.png",
-            "heightFactor": 1.0
-        },
-        {
-            "name_en": "KamdeshHighlands",
-            "name_zh": "卡玛徳什高地",
-            "size": 4032,
-            "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/KamdeshHighlands.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/KamdeshHighlands.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/KamdeshHighlands.png",
-            "heightFactor": 1.35
-        },
-        {
-            "name_en": "KohatToi",
-            "name_zh": "科哈特托伊",
-            "size": 4617,
-            "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/KohatToi.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/KohatToi.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/KohatToi.png",
-            "heightFactor": 0.75
-        },
-        {
-            "name_en": "Kokan",
-            "name_zh": "科坎",
-            "size": 2496,
-            "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Kokan.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Kokan.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Kokan.png",
-            "heightFactor": 1.0
-        },
-        {
-            "name_en": "LashkarValley",
-            "name_zh": "拉什卡",
-            "size": 4334,
-            "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/LashkarValley.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/LashkarValley.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/LashkarValley.png",
-            "heightFactor": 1.5
-        },
-        {
-            "name_en": "LogarValley",
-            "name_zh": "洛加尔山谷",
-            "size": 1761,
-            "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/LogarValley.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/LogarValley.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/LogarValley.png",
-            "heightFactor": 0.5
-        },
-        {
-            "name_en": "Manicouagan",
-            "name_zh": "曼尼古根",
-            "size": 4031,
-            "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Manicouagan.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Manicouagan.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Manicouagan.png",
-            "heightFactor": 3.0
-        },
-        {
-            "name_en": "Mestia",
-            "name_zh": "梅斯蒂亚",
-            "size": 2400,
-            "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Mestia.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Mestia.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Mestia.png",
-            "heightFactor": 1.2
-        },
-        {
-            "name_en": "Mutaha",
-            "name_zh": "穆塔哈",
-            "size": 2755,
-            "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Mutaha.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Mutaha.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Mutaha.png",
-            "heightFactor": 0.3
-        },
-        {
-            "name_en": "Narva",
-            "name_zh": "纳尔瓦",
-            "size": 2800,
-            "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Narva.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Narva.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Narva.png",
-            "heightFactor": 1.0
-        },
-        {
-            "name_en": "PacificProvingGrounds",
-            "name_zh": "太平洋训练基地",
-            "size": 4032,
-            "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/PacificProvingGrounds.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/PacificProvingGrounds.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/PacificProvingGrounds.png",
-            "heightFactor": 0.28
-        },
-        {
-            "name_en": "SanxianIslands",
-            "name_zh": "三贤岛",
-            "size": 4600,
-            "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/SanxianIslands.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/SanxianIslands.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/SanxianIslands.png",
-            "heightFactor": 3.5
-        },
-        {
-            "name_en": "Skorpo",
-            "name_zh": "斯科普",
-            "size": 7600,
-            "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Skorpo.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Skorpo.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Skorpo.png",
-            "heightFactor": 0.75
-        },
-        {
-            "name_en": "Sumari",
-            "name_zh": "索马瑞",
-            "size": 1300,
-            "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Sumari.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Sumari.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Sumari.png",
-            "heightFactor": 1.25
-        },
-        {
-            "name_en": "TallilOutskirts",
-            "name_zh": "塔利尔",
-            "size": 4680,
-            "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/TallilOutskirts.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/TallilOutskirts.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/TallilOutskirts.png",
-            "heightFactor": 4.0
-        },
-        {
-            "name_en": "Yehorivka",
-            "name_zh": "叶霍里夫卡",
-            "size": 6350,
-            "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Yehorivka.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Yehorivka.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Yehorivka.png",
-            "heightFactor": 1.0
-        }
-    ]
+      "table2": []
+    },
+    {
+      "name": "煤气罐",
+      "description": "来自老乡的神秘武器，发射装满丁烷的煤气罐，大口径，一发秒，但是精度很差",
+      "velocity": 95,
+      "gravityScale": 1,
+      "minDistance": 150,
+      "weaponType": "hell",
+      "unit": "angle",
+      "moa": 100,
+      "table1": [
+        [
+          150,
+          85
+        ],
+        [
+          200,
+          83.5
+        ],
+        [
+          300,
+          80.5
+        ],
+        [
+          400,
+          77
+        ],
+        [
+          500,
+          73.5
+        ],
+        [
+          600,
+          70
+        ],
+        [
+          700,
+          65
+        ],
+        [
+          800,
+          60
+        ],
+        [
+          875,
+          55
+        ],
+        [
+          900,
+          50
+        ],
+        [
+          925,
+          45
+        ]
+      ],
+      "table2": [
+        [
+          900,
+          40
+        ],
+        [
+          850,
+          35
+        ],
+        [
+          800,
+          30
+        ],
+        [
+          700,
+          25
+        ],
+        [
+          600,
+          20
+        ]
+      ]
+    },
+    {
+      "name": "UB32-S5",
+      "description": "可以密集发射火箭弹，拥有令步兵闻风丧胆的火力密度，缺点是散布范围太大和装弹麻烦",
+      "velocity": 0,
+      "gravityScale": 2,
+      "minDistance": 700,
+      "weaponType": "ub32s5",
+      "unit": "angle",
+      "moa": 200,
+      "table1": [
+        [
+          700,
+          7.5
+        ],
+        [
+          800,
+          8.8
+        ],
+        [
+          900,
+          10
+        ],
+        [
+          1000,
+          12
+        ],
+        [
+          1100,
+          13.5
+        ],
+        [
+          1200,
+          15.5
+        ],
+        [
+          1300,
+          16.3
+        ],
+        [
+          1400,
+          18
+        ],
+        [
+          1500,
+          20
+        ],
+        [
+          1600,
+          22.5
+        ],
+        [
+          1700,
+          25
+        ],
+        [
+          1800,
+          27.5
+        ],
+        [
+          1900,
+          29.8
+        ],
+        [
+          2000,
+          32
+        ]
+      ],
+      "table2": []
+    },
+    {
+      "name": "冰雹",
+      "description": "可以发射122mm火箭弹，瞬间覆盖敌方阵地，如果敌人还没投降，那就再洗一轮",
+      "velocity": 200,
+      "gravityScale": 2,
+      "minDistance": 1000,
+      "weaponType": "bdm122",
+      "unit": "angle",
+      "moa": 200,
+      "table1": [
+        [
+          1000,
+          14.7
+        ],
+        [
+          1050,
+          15.5
+        ],
+        [
+          1100,
+          16.3
+        ],
+        [
+          1150,
+          17.2
+        ],
+        [
+          1200,
+          18
+        ],
+        [
+          1250,
+          18.9
+        ],
+        [
+          1300,
+          19.8
+        ],
+        [
+          1350,
+          20.7
+        ],
+        [
+          1400,
+          21.7
+        ],
+        [
+          1450,
+          22.7
+        ],
+        [
+          1500,
+          23.7
+        ],
+        [
+          1550,
+          24.7
+        ],
+        [
+          1600,
+          25.9
+        ],
+        [
+          1650,
+          27
+        ],
+        [
+          1700,
+          28.2
+        ],
+        [
+          1750,
+          29.6
+        ],
+        [
+          1800,
+          31
+        ],
+        [
+          1850,
+          32.6
+        ],
+        [
+          1900,
+          34.4
+        ],
+        [
+          1950,
+          36.5
+        ],
+        [
+          2000,
+          39.4
+        ],
+        [
+          2050,
+          45
+        ]
+      ],
+      "table2": []
+    },
+    {
+      "name": "AGS 30",
+      "description": "可以发射榴弹的自动武器，仅限模组使用",
+      "velocity": 0,
+      "gravityScale": 1,
+      "minDistance": 1000,
+      "weaponType": "bdm122",
+      "unit": "angle",
+      "moa": 200,
+      "table1": [
+        [
+          400,
+          93
+        ],
+        [
+          500,
+          115
+        ],
+        [
+          600,
+          140
+        ],
+        [
+          700,
+          165
+        ],
+        [
+          800,
+          190
+        ],
+        [
+          900,
+          215
+        ],
+        [
+          1000,
+          240
+        ],
+        [
+          1100,
+          267
+        ],
+        [
+          1200,
+          296
+        ],
+        [
+          1300,
+          327
+        ],
+        [
+          1400,
+          358
+        ],
+        [
+          1500,
+          390
+        ],
+        [
+          1700,
+          463
+        ],
+        [
+          1800,
+          506
+        ],
+        [
+          1900,
+          553
+        ],
+        [
+          2000,
+          646
+        ]
+      ],
+      "table2": []
+    },
+    {
+      "name": "迫击炮车-短",
+      "description": "使用短行程装药的迫击炮，与标准迫击炮无异",
+      "velocity": 109.890938,
+      "gravityScale": 1,
+      "minDistance": 50,
+      "weaponType": "mortar",
+      "unit": "mil",
+      "moa": 50,
+      "table1": [
+        [
+          50,
+          1579
+        ],
+        [
+          100,
+          1558
+        ],
+        [
+          150,
+          1538
+        ],
+        [
+          200,
+          1517
+        ],
+        [
+          250,
+          1496
+        ],
+        [
+          300,
+          1475
+        ],
+        [
+          350,
+          1453
+        ],
+        [
+          400,
+          1437
+        ],
+        [
+          450,
+          1409
+        ],
+        [
+          500,
+          1387
+        ],
+        [
+          550,
+          1364
+        ],
+        [
+          600,
+          1341
+        ],
+        [
+          650,
+          1317
+        ],
+        [
+          700,
+          1292
+        ],
+        [
+          750,
+          1267
+        ],
+        [
+          800,
+          1240
+        ],
+        [
+          850,
+          1212
+        ],
+        [
+          900,
+          1183
+        ],
+        [
+          950,
+          1152
+        ],
+        [
+          1000,
+          1118
+        ],
+        [
+          1050,
+          1087
+        ],
+        [
+          1100,
+          1039
+        ],
+        [
+          1150,
+          988
+        ],
+        [
+          1200,
+          918
+        ],
+        [
+          1250,
+          800
+        ]
+      ],
+      "table2": []
+    },
+    {
+      "name": "迫击炮车-中",
+      "description": "使用中行程装药的迫击炮，打击更远距离的目标",
+      "velocity": 143.5,
+      "gravityScale": 1,
+      "minDistance": 50,
+      "weaponType": "mortar",
+      "unit": "mil",
+      "moa": 50,
+      "table1": [
+        [
+          50,
+          1579
+        ],
+        [
+          100,
+          1558
+        ],
+        [
+          150,
+          1538
+        ],
+        [
+          200,
+          1517
+        ],
+        [
+          250,
+          1496
+        ],
+        [
+          300,
+          1475
+        ],
+        [
+          350,
+          1453
+        ],
+        [
+          400,
+          1437
+        ],
+        [
+          450,
+          1409
+        ],
+        [
+          500,
+          1387
+        ],
+        [
+          550,
+          1364
+        ],
+        [
+          600,
+          1341
+        ],
+        [
+          650,
+          1317
+        ],
+        [
+          700,
+          1292
+        ],
+        [
+          750,
+          1267
+        ],
+        [
+          800,
+          1240
+        ],
+        [
+          850,
+          1212
+        ],
+        [
+          900,
+          1183
+        ],
+        [
+          950,
+          1152
+        ],
+        [
+          1000,
+          1118
+        ],
+        [
+          1050,
+          1087
+        ],
+        [
+          1100,
+          1039
+        ],
+        [
+          1150,
+          988
+        ],
+        [
+          1200,
+          918
+        ],
+        [
+          1250,
+          800
+        ]
+      ],
+      "table2": []
+    },
+    {
+      "name": "迫击炮车-长",
+      "description": "使用长行程装药的迫击炮，覆盖范围更远",
+      "velocity": 171.5,
+      "gravityScale": 1,
+      "minDistance": 50,
+      "weaponType": "mortar",
+      "unit": "mil",
+      "moa": 50,
+      "table1": [
+        [
+          50,
+          1579
+        ],
+        [
+          100,
+          1558
+        ],
+        [
+          150,
+          1538
+        ],
+        [
+          200,
+          1517
+        ],
+        [
+          250,
+          1496
+        ],
+        [
+          300,
+          1475
+        ],
+        [
+          350,
+          1453
+        ],
+        [
+          400,
+          1437
+        ],
+        [
+          450,
+          1409
+        ],
+        [
+          500,
+          1387
+        ],
+        [
+          550,
+          1364
+        ],
+        [
+          600,
+          1341
+        ],
+        [
+          650,
+          1317
+        ],
+        [
+          700,
+          1292
+        ],
+        [
+          750,
+          1267
+        ],
+        [
+          800,
+          1240
+        ],
+        [
+          850,
+          1212
+        ],
+        [
+          900,
+          1183
+        ],
+        [
+          950,
+          1152
+        ],
+        [
+          1000,
+          1118
+        ],
+        [
+          1050,
+          1087
+        ],
+        [
+          1100,
+          1039
+        ],
+        [
+          1150,
+          988
+        ],
+        [
+          1200,
+          918
+        ],
+        [
+          1250,
+          800
+        ]
+      ],
+      "table2": []
+    },
+    {
+      "name": "sqv迫击炮车-短",
+      "description": "使用长行程装药的迫击炮，覆盖范围更远",
+      "velocity": 129.035654,
+      "gravityScale": 1,
+      "minDistance": 50,
+      "weaponType": "mortar",
+      "unit": "mil",
+      "moa": 50,
+      "table1": [],
+      "table2": []
+    },
+    {
+      "name": "sqv迫击炮车-中",
+      "description": "使用长行程装药的迫击炮，覆盖范围更远",
+      "velocity": 176.519404,
+      "gravityScale": 1,
+      "minDistance": 50,
+      "weaponType": "mortar",
+      "unit": "mil",
+      "moa": 50,
+      "table1": [],
+      "table2": []
+    },
+    {
+      "name": "sqv迫击炮车-长",
+      "description": "使用长行程装药的迫击炮，覆盖范围更远",
+      "velocity": 234.2648074,
+      "gravityScale": 1,
+      "minDistance": 50,
+      "weaponType": "mortar",
+      "unit": "mil",
+      "moa": 50,
+      "table1": [],
+      "table2": []
+    }
+  ],
+  "map_data_list": [
+    {
+      "name_en": "AlBasrah",
+      "name_zh": "巴士拉",
+      "size": 3040,
+      "updateTime": "2024-06-18 00:00:00",
+      "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/AlBasrah.png",
+      "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/AlBasrah.webp",
+      "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/AlBasrah.png",
+      "heightFactor": 0.1
+    },
+    {
+      "name_en": "Anvil",
+      "name_zh": "铁砧行动",
+      "size": 3060,
+      "updateTime": "2024-06-18 00:00:00",
+      "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Anvil.png",
+      "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Anvil.webp",
+      "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Anvil.png",
+      "heightFactor": 0.45
+    },
+    {
+      "name_en": "Belaya",
+      "name_zh": "别拉亚河谷",
+      "size": 3905,
+      "updateTime": "2024-06-18 00:00:00",
+      "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Belaya.png",
+      "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Belaya.webp",
+      "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Belaya.png",
+      "heightFactor": 1.2
+    },
+    {
+      "name_en": "BlackCoast",
+      "name_zh": "黑色海岸",
+      "size": 4599,
+      "updateTime": "2024-06-18 00:00:00",
+      "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/BlackCoast.png",
+      "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/BlackCoast.webp",
+      "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/BlackCoast.png",
+      "heightFactor": 0.8
+    },
+    {
+      "name_en": "Chora",
+      "name_zh": "乔拉",
+      "size": 4064,
+      "updateTime": "2024-06-18 00:00:00",
+      "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Chora.png",
+      "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Chora.webp",
+      "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Chora.png",
+      "heightFactor": 4.0
+    },
+    {
+      "name_en": "Fallujah",
+      "name_zh": "费卢杰",
+      "size": 3005,
+      "updateTime": "2024-06-18 00:00:00",
+      "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Fallujah.jpg",
+      "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Fallujah.webp",
+      "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Fallujah.png",
+      "heightFactor": 1.0
+    },
+    {
+      "name_en": "Fool's Road",
+      "name_zh": "愚者之路",
+      "size": 1773,
+      "updateTime": "2024-06-18 00:00:00",
+      "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Fool's Road.png",
+      "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Fool's Road.webp",
+      "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Fool's Road.png",
+      "heightFactor": 3.2
+    },
+    {
+      "name_en": "GooseBay",
+      "name_zh": "鹅湾",
+      "size": 4031,
+      "updateTime": "2024-06-18 00:00:00",
+      "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/GooseBay.png",
+      "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/GooseBay.webp",
+      "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/GooseBay.png",
+      "heightFactor": 0.4
+    },
+    {
+      "name_en": "Gorodok",
+      "name_zh": "格洛多克",
+      "size": 4064,
+      "updateTime": "2024-06-18 00:00:00",
+      "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Gorodok.png",
+      "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Gorodok.webp",
+      "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Gorodok.png",
+      "heightFactor": 10.0
+    },
+    {
+      "name_en": "Harju",
+      "name_zh": "哈留",
+      "size": 4032,
+      "updateTime": "2024-06-18 00:00:00",
+      "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Harju.png",
+      "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Harju.webp",
+      "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Harju.png",
+      "heightFactor": 1.0
+    },
+    {
+      "name_en": "Jensen'sRange",
+      "name_zh": "詹森训练基地",
+      "size": 4008,
+      "updateTime": "2024-06-18 00:00:00",
+      "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Jensen'sRange.png",
+      "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Jensen'sRange.webp",
+      "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Jensen'sRange.png",
+      "heightFactor": 1.0
+    },
+    {
+      "name_en": "KamdeshHighlands",
+      "name_zh": "卡玛徳什高地",
+      "size": 4032,
+      "updateTime": "2024-06-18 00:00:00",
+      "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/KamdeshHighlands.png",
+      "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/KamdeshHighlands.webp",
+      "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/KamdeshHighlands.png",
+      "heightFactor": 1.35
+    },
+    {
+      "name_en": "KohatToi",
+      "name_zh": "科哈特托伊",
+      "size": 4617,
+      "updateTime": "2024-06-18 00:00:00",
+      "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/KohatToi.png",
+      "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/KohatToi.webp",
+      "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/KohatToi.png",
+      "heightFactor": 0.75
+    },
+    {
+      "name_en": "Kokan",
+      "name_zh": "科坎",
+      "size": 2496,
+      "updateTime": "2024-06-18 00:00:00",
+      "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Kokan.png",
+      "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Kokan.webp",
+      "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Kokan.png",
+      "heightFactor": 1.0
+    },
+    {
+      "name_en": "LashkarValley",
+      "name_zh": "拉什卡",
+      "size": 4334,
+      "updateTime": "2024-06-18 00:00:00",
+      "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/LashkarValley.png",
+      "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/LashkarValley.webp",
+      "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/LashkarValley.png",
+      "heightFactor": 1.5
+    },
+    {
+      "name_en": "LogarValley",
+      "name_zh": "洛加尔山谷",
+      "size": 1761,
+      "updateTime": "2024-06-18 00:00:00",
+      "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/LogarValley.png",
+      "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/LogarValley.webp",
+      "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/LogarValley.png",
+      "heightFactor": 0.5
+    },
+    {
+      "name_en": "Manicouagan",
+      "name_zh": "曼尼古根",
+      "size": 4031,
+      "updateTime": "2024-06-18 00:00:00",
+      "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Manicouagan.png",
+      "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Manicouagan.webp",
+      "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Manicouagan.png",
+      "heightFactor": 3.0
+    },
+    {
+      "name_en": "Mestia",
+      "name_zh": "梅斯蒂亚",
+      "size": 2400,
+      "updateTime": "2024-06-18 00:00:00",
+      "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Mestia.png",
+      "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Mestia.webp",
+      "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Mestia.png",
+      "heightFactor": 1.2
+    },
+    {
+      "name_en": "Mutaha",
+      "name_zh": "穆塔哈",
+      "size": 2755,
+      "updateTime": "2024-06-18 00:00:00",
+      "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Mutaha.png",
+      "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Mutaha.webp",
+      "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Mutaha.png",
+      "heightFactor": 0.3
+    },
+    {
+      "name_en": "Narva",
+      "name_zh": "纳尔瓦",
+      "size": 2800,
+      "updateTime": "2024-06-18 00:00:00",
+      "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Narva.png",
+      "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Narva.webp",
+      "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Narva.png",
+      "heightFactor": 1.0
+    },
+    {
+      "name_en": "PacificProvingGrounds",
+      "name_zh": "太平洋训练基地",
+      "size": 4032,
+      "updateTime": "2024-06-18 00:00:00",
+      "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/PacificProvingGrounds.png",
+      "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/PacificProvingGrounds.webp",
+      "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/PacificProvingGrounds.png",
+      "heightFactor": 0.28
+    },
+    {
+      "name_en": "SanxianIslands",
+      "name_zh": "三贤岛",
+      "size": 4600,
+      "updateTime": "2024-06-18 00:00:00",
+      "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/SanxianIslands.png",
+      "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/SanxianIslands.webp",
+      "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/SanxianIslands.png",
+      "heightFactor": 3.5
+    },
+    {
+      "name_en": "Skorpo",
+      "name_zh": "斯科普",
+      "size": 7600,
+      "updateTime": "2024-06-18 00:00:00",
+      "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Skorpo.png",
+      "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Skorpo.webp",
+      "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Skorpo.png",
+      "heightFactor": 0.75
+    },
+    {
+      "name_en": "Sumari",
+      "name_zh": "索马瑞",
+      "size": 1300,
+      "updateTime": "2024-06-18 00:00:00",
+      "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Sumari.png",
+      "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Sumari.webp",
+      "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Sumari.png",
+      "heightFactor": 1.25
+    },
+    {
+      "name_en": "TallilOutskirts",
+      "name_zh": "塔利尔",
+      "size": 4680,
+      "updateTime": "2024-06-18 00:00:00",
+      "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/TallilOutskirts.png",
+      "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/TallilOutskirts.webp",
+      "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/TallilOutskirts.png",
+      "heightFactor": 4.0
+    },
+    {
+      "name_en": "Yehorivka",
+      "name_zh": "叶霍里夫卡",
+      "size": 6350,
+      "updateTime": "2024-06-18 00:00:00",
+      "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Yehorivka.png",
+      "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Yehorivka.webp",
+      "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Yehorivka.png",
+      "heightFactor": 1.0
+    }
+  ]
 }
