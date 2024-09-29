@@ -785,7 +785,7 @@
       "minDistance": 50,
       "weaponType": "mortar",
       "unit": "mil",
-      "moa": 50,
+      "moa": 25,
       "table1": [],
       "table2": []
     },
@@ -797,7 +797,7 @@
       "minDistance": 50,
       "weaponType": "mortar",
       "unit": "mil",
-      "moa": 50,
+      "moa": 25,
       "table1": [],
       "table2": []
     },
@@ -809,7 +809,7 @@
       "minDistance": 50,
       "weaponType": "mortar",
       "unit": "mil",
-      "moa": 50,
+      "moa": 25,
       "table1": [],
       "table2": []
     }
