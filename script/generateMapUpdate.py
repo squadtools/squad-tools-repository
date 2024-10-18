@@ -50,7 +50,7 @@ def get_map_data_list_from_excel(excel_file_path):
 
 
 if __name__ == "__main__":
-    hostUrl = "https://gitee.com/squadtools/squad-tools-repository/raw/master"
+    hostUrl = "https://gitee.com/squadtools/squad-tools-repository/raw/main"
     fullMapPath = "Maps/full"
     liteMapPath = "Maps/lite"
     heightMapPath = "Maps/heightmap"
