@@ -67,14 +67,14 @@
             "heightFactor": 1.0
         },
         {
-            "name_en": "Fool's Road",
+            "name_en": "Fool'sRoad",
             "name_zh": "愚者之路",
             "map_size": 1773,
             "updateTime": "2024-06-18 00:00:00",
-            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Fool's Road.png",
-            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Fool's Road.webp",
-            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Fool's Road.png",
-            "previewMapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/previews/Fool's Road.webp",
+            "fullPixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/full/Fool'sRoad.png",
+            "litePixUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/lite/Fool'sRoad.webp",
+            "heightmapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/heightmap/Fool'sRoad.png",
+            "previewMapUrl": "https://gitee.com/squadtools/squad-tools-repository/raw/main/Maps/previews/Fool'sRoad.webp",
             "heightFactor": 3.2
         },
         {
